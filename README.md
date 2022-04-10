@@ -70,6 +70,8 @@ x10 = [] # list for w10,r10,t10 [w10,r10,t10]
 
 mx=[1,1,1,1,1,1,1,1,1,1] # check list for missed x value
 
+4-1. w,r,t설명
+
 
 5. 함수설명
 
