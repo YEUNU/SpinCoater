@@ -72,7 +72,7 @@ mx=[1,1,1,1,1,1,1,1,1,1] # check list for missed x value
 
 4-1. w,r,t설명
 
-
+<img width="80%" src=https://user-images.githubusercontent.com/61678329/162602231-56fabc83-e99d-4a16-bfa5-62bb064e1b4f.png>
 5. 함수설명
 
 plot(self, time, rpm): # function for drawed main graph 
