@@ -35,12 +35,18 @@ PyQt5, pyqtgraph, Pyserial
 x1 ~ x10 are the list, including W,R,T values.
 
 W : target RPM
+
 R : target Time
+
 T : hold time
 
 ### Signal Rules
 
 update_value is the list, including [run_status , vaccum , w value , r value , t value, ....]
+
+run_status : 0 (Not working), 1 (Working), 2 (Error)
+
+vaccum_status : 0 (Not working), 1 (Working)
 
 ### Function Explanation
 
