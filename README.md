@@ -16,9 +16,13 @@ Goal RPM : 9000 (with accuracy 99%)
 ## 3. Component
 
 Raspberry Pi (Raspberry Pi 3 Model B)
+
 Raspberry Pi Touch Display (7 inch)
+
 Arudino nano
+
 Stepper Motor IHSV57 (https://www.jmc-motor.com/product/901.html)
+
 Pulley Gear Ratio (1 : 3 = motor rpm : real rpm)
 
 ## 4. WorkFlow
