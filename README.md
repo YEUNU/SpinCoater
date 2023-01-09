@@ -26,7 +26,7 @@ Pulley Gear Ratio (1 : 3 = motor rpm : real rpm)
 <img width="80%" src="https://user-images.githubusercontent.com/61678329/211228124-59cf6e31-e875-483c-aaed-33d6afc7e4ff.png"/>
 
 
-<img width="80%" src="https://user-images.githubusercontent.com/61678329/162602231-56fabc83-e99d-4a16-bfa5-62bb064e1b4f.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/61678329/162602231-56fabc83-e99d-4a16-bfa5-62bb064e1b4f.png"/>
 
 
 ## 5. Explanation
